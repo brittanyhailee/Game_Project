@@ -9,19 +9,19 @@ CND_DISTDIR=dist
 # Debug configuration
 CND_PLATFORM_Debug=GNU-MacOSX
 CND_ARTIFACT_DIR_Debug=dist/Debug/GNU-MacOSX
-CND_ARTIFACT_NAME_Debug=project_revisions_final
-CND_ARTIFACT_PATH_Debug=dist/Debug/GNU-MacOSX/project_revisions_final
+CND_ARTIFACT_NAME_Debug=project_1_morefunctions
+CND_ARTIFACT_PATH_Debug=dist/Debug/GNU-MacOSX/project_1_morefunctions
 CND_PACKAGE_DIR_Debug=dist/Debug/GNU-MacOSX/package
-CND_PACKAGE_NAME_Debug=projectrevisionsfinal.tar
-CND_PACKAGE_PATH_Debug=dist/Debug/GNU-MacOSX/package/projectrevisionsfinal.tar
+CND_PACKAGE_NAME_Debug=project1morefunctions.tar
+CND_PACKAGE_PATH_Debug=dist/Debug/GNU-MacOSX/package/project1morefunctions.tar
 # Release configuration
 CND_PLATFORM_Release=GNU-MacOSX
 CND_ARTIFACT_DIR_Release=dist/Release/GNU-MacOSX
-CND_ARTIFACT_NAME_Release=project_revisions_final
-CND_ARTIFACT_PATH_Release=dist/Release/GNU-MacOSX/project_revisions_final
+CND_ARTIFACT_NAME_Release=project_1_morefunctions
+CND_ARTIFACT_PATH_Release=dist/Release/GNU-MacOSX/project_1_morefunctions
 CND_PACKAGE_DIR_Release=dist/Release/GNU-MacOSX/package
-CND_PACKAGE_NAME_Release=projectrevisionsfinal.tar
-CND_PACKAGE_PATH_Release=dist/Release/GNU-MacOSX/package/projectrevisionsfinal.tar
+CND_PACKAGE_NAME_Release=project1morefunctions.tar
+CND_PACKAGE_PATH_Release=dist/Release/GNU-MacOSX/package/project1morefunctions.tar
 #
 # include compiler specific variables
 #

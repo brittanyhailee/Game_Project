@@ -24,7 +24,7 @@ CLEAN_SUBPROJECTS=${CLEAN_SUBPROJECTS_${SUBPROJECTS}}
 
 
 # Project Name
-PROJECTNAME=Project_Revisions_FINAL
+PROJECTNAME=Project_1_MoreFunctions
 
 # Active Configuration
 DEFAULTCONF=Debug
